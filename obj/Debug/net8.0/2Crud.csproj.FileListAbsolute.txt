@@ -1,0 +1,14 @@
+C:\Users\Leona\2Crud\bin\Debug\net8.0\2Crud.exe
+C:\Users\Leona\2Crud\bin\Debug\net8.0\2Crud.deps.json
+C:\Users\Leona\2Crud\bin\Debug\net8.0\2Crud.runtimeconfig.json
+C:\Users\Leona\2Crud\bin\Debug\net8.0\2Crud.dll
+C:\Users\Leona\2Crud\bin\Debug\net8.0\2Crud.pdb
+C:\Users\Leona\2Crud\obj\Debug\net8.0\2Crud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leona\2Crud\obj\Debug\net8.0\2Crud.AssemblyInfoInputs.cache
+C:\Users\Leona\2Crud\obj\Debug\net8.0\2Crud.AssemblyInfo.cs
+C:\Users\Leona\2Crud\obj\Debug\net8.0\2Crud.csproj.CoreCompileInputs.cache
+C:\Users\Leona\2Crud\obj\Debug\net8.0\2Crud.dll
+C:\Users\Leona\2Crud\obj\Debug\net8.0\refint\2Crud.dll
+C:\Users\Leona\2Crud\obj\Debug\net8.0\2Crud.pdb
+C:\Users\Leona\2Crud\obj\Debug\net8.0\2Crud.genruntimeconfig.cache
+C:\Users\Leona\2Crud\obj\Debug\net8.0\ref\2Crud.dll
